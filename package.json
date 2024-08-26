@@ -1,0 +1,6 @@
+{
+    "id": "adr_vms_inanim",
+    "title": "In Animation",
+    "version": "0.1",
+    "description": "Контентпак для анимирования 3д моеделей с скелетом и импорт из Blender 4.0"
+}
